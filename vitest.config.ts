@@ -81,7 +81,6 @@ export default defineConfig({
             "lib/utils/clipboard.test.ts",
             "lib/search/**/*.test.ts",
             "components/features/lending/**/*.test.tsx",
-            "context/**/*.test.{ts,tsx}",
             "hooks/**/*.test.{ts,tsx}",
           ],
         },
